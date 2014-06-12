@@ -76,7 +76,7 @@ console.log(add(1, add(2, 3)));
 console.log(add(add(1, 2), add(3, 4)));
 
 //4
-console.log(subtract(10, 9))
+console.log(subtract(10, 9));
 
 
 //5
